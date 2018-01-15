@@ -12,6 +12,8 @@ import org.openqa.selenium.support.FindBy;
 @DefaultUrl("https://fasttrackit.org/selenium-test/customer/account/create/")
 public class RegisterPage extends PageObject{
 
+//Some comment here
+
 
     @FindBy(id = "firstname")
     private WebElementFacade firstNameField;
